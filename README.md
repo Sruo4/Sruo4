@@ -8,4 +8,4 @@ Intermittent perfectionist, enjoy exploring the world
 
 * 🌍  I'm based in HangZhou, China
 * ✉️  You can contact me at [hee.fan@outlook.com](mailto:hee.fan@outlook.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning React & Vue
